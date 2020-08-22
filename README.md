@@ -23,6 +23,7 @@ Writing will be a sprint-time task where i put all of my effort into it. I can u
 NEW TODO:
 - write a script that adds tweets to a table
 that way you can write locally, and essentially "push" to the table once you're ready
+	- formatting is gonna be an issue son. might be better to just SCP that betch
 - write script that pulls from table, posts, updates table, writes to disk
 - write cron job to automate that script
 - add logic to notify me when tweets are low?
